@@ -10,7 +10,7 @@ import team.infra.AbstractEvent;
 public class AddCart extends AbstractEvent {
 
     private Long orderId;
-    private String menuId;
+    private Long menuId;
     private Date createdAt;
     private String orderStatus;
     private Integer quantity;

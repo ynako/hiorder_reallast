@@ -18,7 +18,7 @@ public class Order {
     @GeneratedValue(strategy = GenerationType.AUTO)
     private Long orderId;
 
-    private String menuId;
+    private Long menuId;
 
     private Date createdAt;
 

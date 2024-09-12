@@ -39,9 +39,6 @@ public class Menu {
 
     private String imageUrl;
 
-    @Embedded
-    private OrderId orderId;
-
     @PostPersist
     public void onPostPersist() {
         MenuCreated menuCreated = new MenuCreated(this);

@@ -38,7 +38,6 @@
             <div>
                 <String label="ImageUrl" v-model="item.imageUrl" :editMode="editMode" @change="change" />
             </div>
-            <OrderId offline label="OrderId" v-model="item.orderId" :editMode="false" :key="false" @change="change" />
         </v-card-text>
 
         <v-card-actions>

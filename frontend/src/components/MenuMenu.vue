@@ -27,7 +27,6 @@
             <Number label="AccOrderCount" v-model="value.accOrderCount" :editMode="editMode" :inputUI="''"/>
             <Boolean label="IsHot" v-model="value.isHot" :editMode="editMode" :inputUI="''"/>
             <String label="ImageUrl" v-model="value.imageUrl" :editMode="editMode" :inputUI="''"/>
-            <OrderId offline label="OrderId" v-model="value.orderId" :editMode="editMode" @change="change"/>
         </v-card-text>
 
         <v-card-actions>

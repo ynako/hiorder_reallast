@@ -77,7 +77,6 @@
                     { text: "accOrderCount", value: "accOrderCount" },
                     { text: "isHot", value: "isHot" },
                     { text: "imageUrl", value: "imageUrl" },
-                    { text: "orderId", value: "orderId" },
                 ],
             menu : [],
             newValue: {},
@@ -106,7 +105,6 @@
                 'accOrderCount': 0,
                 'isHot': false,
                 'imageUrl': '',
-                'orderId': {},
             }
         },
         methods: {
