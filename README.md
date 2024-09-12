@@ -39,7 +39,7 @@ mvn spring-boot:run
 ```
 - menu
 ```
- http :8088/menus menuId="menuId" menuName="menuName" description="description" price="price" isAvailable="isAvailable" category="category" discount="discount" todayOrderCount="todayOrderCount" accOrderCount="accOrderCount" isHot="isHot" imageUrl="imageUrl" orderId="orderId" 
+ http :8088/menus menuId="menuId" menuName="menuName" description="description" price="price" isAvailable="isAvailable" category="category" discount="discount" todayOrderCount="todayOrderCount" accOrderCount="accOrderCount" isHot="isHot" imageUrl="imageUrl" 
 ```
 - login
 ```

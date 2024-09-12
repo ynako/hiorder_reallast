@@ -9,7 +9,7 @@
                 <Number label="OrderId" v-model="item.orderId" :editMode="editMode" @change="change" />
             </div>
             <div>
-                <String label="MenuId" v-model="item.menuId" :editMode="editMode" @change="change" />
+                <Number label="MenuId" v-model="item.menuId" :editMode="editMode" @change="change" />
             </div>
             <div>
                 <Date label="CreatedAt" v-model="item.createdAt" :editMode="editMode" @change="change" />
