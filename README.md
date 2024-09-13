@@ -197,7 +197,7 @@
 
 ### To-Be 조직
 
-![image](https://github.com/user-attachments/assets/46916fac-e066-41fb-80c4-b8cc7f919cc3)
+![image](https://github.com/user-attachments/assets/701275af-c302-4a53-a74a-a33c45942706)
 
 
 
