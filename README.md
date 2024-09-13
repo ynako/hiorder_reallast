@@ -197,7 +197,7 @@
 
 ### To-Be 조직
 
-![image](https://github.com/user-attachments/assets/171150c5-8d98-4808-b285-d561e8c91491)
+![image](https://github.com/user-attachments/assets/46916fac-e066-41fb-80c4-b8cc7f919cc3)
 
 
 
@@ -213,46 +213,50 @@ https://www.msaez.io/#/storming/team6board_share
 
 1. **Event 도출**
     
-    ![image](https://github.com/user-attachments/assets/72cad374-add4-4097-aeff-7d56dcc2624e)
+    ![image](https://github.com/user-attachments/assets/b6f4aa05-84a3-4f18-be06-453d75b5d9e1)
+
 
     
 
 2. **Actor, Command 추가**
     
-    ![image](https://github.com/user-attachments/assets/55b9f5a2-9061-4e03-9925-122269b0e74f)
+    ![image](https://github.com/user-attachments/assets/037c6f03-4434-4506-89e7-c1a8c6be432f)
 
 
     
 
 3. **Aggregate 분류**
     
-    ![image](https://github.com/user-attachments/assets/a10f11ce-751d-40d0-af9a-8274b11832d4)
+    ![image](https://github.com/user-attachments/assets/3a616103-bd48-4fd3-b8e5-3b7326d2870e)
 
 
     
 
 4. **Bounded Context 집합**
     
-    ![image](https://github.com/user-attachments/assets/7904bcdc-ecef-428e-9c2d-04b9517f723d)
+    ![image](https://github.com/user-attachments/assets/06c1b2a1-99c9-472f-85c7-da2431da6870)
+
 
 
     
 5. **Policy 생성**
     
-    ![image](https://github.com/user-attachments/assets/b7d9075b-fac6-49f3-95fa-2e56d4aaf4d2)
+    ![image](https://github.com/user-attachments/assets/6982b66d-6842-4d4e-912e-2f9f5658f77b)
+
 
 
     
 6. **Context 매핑**
     
-    ![image](https://github.com/user-attachments/assets/ae36164a-2548-4053-b6d2-f02493771404)
+    ![image](https://github.com/user-attachments/assets/769daceb-cc3a-415e-aee3-005e51b490d6)
+
 
 
 ### **3.3 요구사항 커버 검증**
 
 **1. 기능적 요구사항 > 고객**
         
-![image](https://github.com/user-attachments/assets/13178ede-a11e-477c-8137-3d371dcf9083)
+![image](https://github.com/user-attachments/assets/54fbc9e6-cb5e-4390-b5d1-adae91f9a4e2)
 
 
         
@@ -263,7 +267,7 @@ https://www.msaez.io/#/storming/team6board_share
         
      
         
-![image](https://github.com/user-attachments/assets/688bbd90-4a8a-4d5d-bf8c-146fc5c96166)
+![image](https://github.com/user-attachments/assets/b0ab5253-3ea3-40e9-906f-aa170b326e8c)
 
 
 
@@ -286,7 +290,7 @@ https://www.msaez.io/#/storming/team6board_share
 **고객의 주문 내역 확인**
         
         
-![image](https://github.com/user-attachments/assets/ddacd9a4-69fd-4fc9-ab98-196d9b9618d6)
+![image](https://github.com/user-attachments/assets/8216ee5a-b53a-4325-8a8c-d324aa3358f0)
 
 
 
@@ -302,7 +306,7 @@ https://www.msaez.io/#/storming/team6board_share
         
 **매장 운영자의 하이오더 서비스 접속 및 로그인 시나리오 충족**
 
-![image](https://github.com/user-attachments/assets/2ced376e-db97-4cdf-88dd-bd8bd8674106)
+![image](https://github.com/user-attachments/assets/f7f2a63b-b393-415e-8d75-5561d757eeeb)
 
 
         
@@ -310,7 +314,7 @@ https://www.msaez.io/#/storming/team6board_share
           
 **매장 운영자의 메뉴 관리 시나리오 및 주문 테이블 관리 시나리오 충족**
 
-![image](https://github.com/user-attachments/assets/3925e807-6c56-4c3e-a675-7c4a6aa8320e)
+![image](https://github.com/user-attachments/assets/18e84b46-a890-46d6-a785-6c6812fad149)
 
 
 
@@ -323,7 +327,7 @@ https://www.msaez.io/#/storming/team6board_share
         
 ### 2. 비기능적 요구사항 
         
-![image](https://github.com/user-attachments/assets/20407fc7-f5b6-4e73-b1e1-5c02738ffd45)
+![image](https://github.com/user-attachments/assets/4ef77ec7-553a-43b0-a44b-28cdef8857b0)
 
 
         
@@ -361,7 +365,7 @@ https://www.msaez.io/#/storming/team6board_share
         
 ### 3.4 헥사고날 아키텍처 다이어그램 도출
 
-![image](https://github.com/user-attachments/assets/7425c3d8-06cb-4962-b025-00f87dc798ea)
+![image](https://github.com/user-attachments/assets/37b90fff-b190-4295-b1ce-57cda8e53ed1)
 
 
 ---
@@ -389,7 +393,7 @@ mvn spring-boot:run
 ...
 ```
 
-![image](https://github.com/user-attachments/assets/cca7307c-4516-4930-b0ae-b12022451169)
+![image](https://github.com/user-attachments/assets/6b47a48f-9372-48a2-bada-3f5b24813ebf)
 
 
 ### DDD의 적용
@@ -761,15 +765,15 @@ ordermanagement     ClusterIP      10.0.62.32     <none>         8080/TCP       
 
 *`20.249.71.78` 외부 IP를 통한 create 테스트
 
-![image](https://github.com/user-attachments/assets/0df2d949-68b3-4c98-bd96-43b749c1fa96)
+![image](https://github.com/user-attachments/assets/287c5802-2270-433b-84b5-1fbea5a17c24)
 
 
 ### Docker Build 이미지 생성
 
-![image](https://github.com/user-attachments/assets/1dfba52d-94a7-4dd7-9658-f6b3bd872c46)
+![image](https://github.com/user-attachments/assets/d319df1d-1260-4d52-8099-5b8aea086417)
 
 
-![image](https://github.com/user-attachments/assets/fc2e3ad2-398a-412b-9eea-3e7a9812f3f0)
+![image](https://github.com/user-attachments/assets/1786da45-1acb-45a8-a099-c10a2961c3e7)
 
 
 ### DockerHub 리포지토리
