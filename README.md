@@ -209,7 +209,7 @@
 
 ### 3.2 Event Storming
 
-https://www.msaez.io/#/storming/team6board_share
+[https://www.msaez.io/#/storming/team6board_share](https://www.msaez.io/#/154209987/storming/untitled)
 
 1. **Event 도출**
     
